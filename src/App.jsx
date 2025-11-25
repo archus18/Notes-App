@@ -3,6 +3,8 @@ import "./App.css";
 import AddNote from "./components/AddNote";
 import AllNotes from "./components/AllNotes";
 
+
+
 function App() {
   const [notes, setNotes] = useState([]);
 
