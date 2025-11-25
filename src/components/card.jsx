@@ -77,4 +77,4 @@ const Card = ({ note, deleteNote, editNote }) => {
   );
 };
 
-export default Card;
+export default Card

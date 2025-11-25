@@ -48,4 +48,4 @@ const AddNote = ({ setNotes, notes }) => {
   );
 };
 
-export default AddNote;
+export default AddNote

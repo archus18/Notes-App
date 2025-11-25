@@ -30,4 +30,4 @@ const AllNotes = ({ notes, setNotes }) => {
   );
 };
 
-export default AllNotes;
+export default AllNotes
